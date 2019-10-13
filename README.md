@@ -1,7 +1,7 @@
 ①参照方法について
 	$cal = new App_Report();
 	$result = $cal->factorial(5);
-　の形で関数を参照
+	の形で関数を参照
 
 ②返り値
 	計算した結果を返しますが
